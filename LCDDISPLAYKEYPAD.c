@@ -116,7 +116,7 @@ void show4(char *result4)
 	
 void main()
 {
-	TRISE=0X00;
+    TRISE=0X00;
     PORTE=0X00;
     
     TRISB=0x00; 
